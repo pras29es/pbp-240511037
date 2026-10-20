@@ -13,11 +13,12 @@
 
 ---
 
+
 ## Daftar Referensi
 
-1. **MDN Web Docs.** *Introduction to Web Development & Web Architecture*. Terhubung pada: [https://developer.mozilla.org](https://developer.mozilla.org)
-2. **Android Developers & Apple Developer Documentation.** *Mobile Application Concepts, Architecture, and Distribution Guidelines*. Terhubung pada: [https://developer.android.com](https://developer.android.com) dan [https://developer.apple.com](https://developer.apple.com)
-3. **Sommerville, Ian.** (2015). *Software Engineering* (10th Edition). Pearson. (Membahas arsitektur perangkat lunak desktop, client-server, dan aplikasi terdistribusi).
+1. **W3C (World Wide Web Consortium).** *Web Architecture and Standards*. Terhubung pada: [https://www.w3.org/TR/webarch/](https://www.w3.org/TR/webarch/)
+2. **Microsoft Learn.** *Desktop Application Design Guidelines & Architecture*. Terhubung pada: [https://learn.microsoft.com/en-us/windows/apps/](https://learn.microsoft.com/en-us/windows/apps/)
+3. **Pressman, Roger S. & Maxim, Bruce R.** (2019). *Software Engineering: A Practitioner's Approach* (9th Edition). McGraw-Hill Education.
 
 ---
 
